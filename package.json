@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Anna Nguyen",
+  "engines": {
+    "node": "10.4.0"
+  },
   "license": "MIT",
   "scripts": {
     "serve": "live-server public/",
